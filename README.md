@@ -113,7 +113,7 @@ or
     <img width="1591" height="383" alt="image" src="https://github.com/user-attachments/assets/34fbcf37-502f-43b8-963a-628d30e4066a" />
     <img width="257" height="207" alt="image" src="https://github.com/user-attachments/assets/1eaad26e-35fd-4b3a-bd6d-fd544c410d09" />
 *   
-*   **操作**: 在页面上方找到 **“自动程序攻击模式” (Bot Fight Mode)**，开启开关。
+*   **操作**: 在安全性设置页面的下方找到 **“自动程序攻击模式” (Bot Fight Mode)**，开启开关。
 *   <img width="979" height="722" alt="image" src="https://github.com/user-attachments/assets/b8bc895f-abc3-4e83-b548-0ab85f82d0b0" />
 *   **作用**: 自动拦截已知的恶意爬虫和脚本小子，减少垃圾流量。
 ---
